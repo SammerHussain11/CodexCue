@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding React Hooks",
+    "author": "Jane Doe",
+    "date": "2023-07-01",
+    "content": "React Hooks provide a powerful way to manage state and side effects in functional components..."
+  },
+  {
+    "id": 2,
+    "title": "A Guide to CSS Flexbox",
+    "author": "John Smith",
+    "date": "2023-06-15",
+    "content": "CSS Flexbox is a layout module that provides a more efficient way to lay out, align, and distribute space among items in a container..."
+  },
+  {
+    "id": 3,
+    "title": "Introduction to Node.js",
+    "author": "Alice Johnson",
+    "date": "2023-05-20",
+    "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows you to build scalable network applications..."
+  }
+]
